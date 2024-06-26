@@ -1,0 +1,14 @@
+C:\Users\GOLDEN\source\repos\Interfaces and Delegates\bin\Debug\net6.0\Interfaces and Delegates.exe
+C:\Users\GOLDEN\source\repos\Interfaces and Delegates\bin\Debug\net6.0\Interfaces and Delegates.deps.json
+C:\Users\GOLDEN\source\repos\Interfaces and Delegates\bin\Debug\net6.0\Interfaces and Delegates.runtimeconfig.json
+C:\Users\GOLDEN\source\repos\Interfaces and Delegates\bin\Debug\net6.0\Interfaces and Delegates.dll
+C:\Users\GOLDEN\source\repos\Interfaces and Delegates\bin\Debug\net6.0\Interfaces and Delegates.pdb
+C:\Users\GOLDEN\source\repos\Interfaces and Delegates\obj\Debug\net6.0\Interfaces and Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLDEN\source\repos\Interfaces and Delegates\obj\Debug\net6.0\Interfaces and Delegates.AssemblyInfoInputs.cache
+C:\Users\GOLDEN\source\repos\Interfaces and Delegates\obj\Debug\net6.0\Interfaces and Delegates.AssemblyInfo.cs
+C:\Users\GOLDEN\source\repos\Interfaces and Delegates\obj\Debug\net6.0\Interfaces and Delegates.csproj.CoreCompileInputs.cache
+C:\Users\GOLDEN\source\repos\Interfaces and Delegates\obj\Debug\net6.0\Interfaces and Delegates.dll
+C:\Users\GOLDEN\source\repos\Interfaces and Delegates\obj\Debug\net6.0\refint\Interfaces and Delegates.dll
+C:\Users\GOLDEN\source\repos\Interfaces and Delegates\obj\Debug\net6.0\Interfaces and Delegates.pdb
+C:\Users\GOLDEN\source\repos\Interfaces and Delegates\obj\Debug\net6.0\Interfaces and Delegates.genruntimeconfig.cache
+C:\Users\GOLDEN\source\repos\Interfaces and Delegates\obj\Debug\net6.0\ref\Interfaces and Delegates.dll
